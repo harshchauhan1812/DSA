@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harshchauhan1812/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1563-stone-game-v](https://github.com/harshchauhan1812/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshchauhan1812/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/harshchauhan1812/DSA/tree/main/2029-stone-game-ix/) | Medium |
@@ -49,11 +50,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harshchauhan1812/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshchauhan1812/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshchauhan1812/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harshchauhan1812/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshchauhan1812/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harshchauhan1812/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Sliding Window
@@ -85,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/harshchauhan1812/DSA/tree/main/1563-stone-game-v/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harshchauhan1812/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 <!---LeetCode Topics End-->
