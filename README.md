@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshchauhan1812/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshchauhan1812/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshchauhan1812/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshchauhan1812/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshchauhan1812/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshchauhan1812/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshchauhan1812/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/harshchauhan1812/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
