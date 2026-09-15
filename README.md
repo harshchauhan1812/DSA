@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshchauhan1812/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harshchauhan1812/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshchauhan1812/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/harshchauhan1812/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/harshchauhan1812/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/harshchauhan1812/DSA/tree/main/1927-sum-game/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshchauhan1812/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harshchauhan1812/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshchauhan1812/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshchauhan1812/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/harshchauhan1812/DSA/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/harshchauhan1812/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshchauhan1812/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshchauhan1812/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshchauhan1812/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/harshchauhan1812/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Hash Table
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/harshchauhan1812/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/harshchauhan1812/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/harshchauhan1812/DSA/tree/main/1872-stone-game-viii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshchauhan1812/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
