@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshchauhan1812/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshchauhan1812/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/harshchauhan1812/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harshchauhan1812/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/harshchauhan1812/DSA/tree/main/1872-stone-game-viii/) | Hard |
@@ -188,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0835-image-overlap](https://github.com/harshchauhan1812/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harshchauhan1812/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/harshchauhan1812/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
