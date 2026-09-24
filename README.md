@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/harshchauhan1812/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshchauhan1812/DSA/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/harshchauhan1812/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/harshchauhan1812/DSA/tree/master/0115-distinct-subsequences) |
+| [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/harshchauhan1812/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/harshchauhan1812/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -216,4 +218,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/harshchauhan1812/DSA/tree/master/0733-flood-fill) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
