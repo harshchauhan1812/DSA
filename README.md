@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/harshchauhan1812/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshchauhan1812/DSA/tree/master/0040-combination-sum-ii) |
+| [0088-merge-sorted-array](https://github.com/harshchauhan1812/DSA/tree/master/0088-merge-sorted-array) |
 | [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/harshchauhan1812/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshchauhan1812/DSA/tree/master/0835-image-overlap) |
@@ -64,12 +65,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshchauhan1812/DSA/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/harshchauhan1812/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/harshchauhan1812/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshchauhan1812/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harshchauhan1812/DSA/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/harshchauhan1812/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/harshchauhan1812/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harshchauhan1812/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
