@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harshchauhan1812/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/harshchauhan1812/DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/harshchauhan1812/DSA/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/harshchauhan1812/DSA/tree/master/0835-image-overlap) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/harshchauhan1812/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/harshchauhan1812/DSA/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/harshchauhan1812/DSA/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
