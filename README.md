@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshchauhan1812/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/harshchauhan1812/DSA/tree/master/0096-unique-binary-search-trees) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/harshchauhan1812/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/harshchauhan1812/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshchauhan1812/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshchauhan1812/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/harshchauhan1812/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/harshchauhan1812/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/harshchauhan1812/DSA/tree/master/0115-distinct-subsequences) |
 | [0494-target-sum](https://github.com/harshchauhan1812/DSA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/harshchauhan1812/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -324,11 +326,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshchauhan1812/DSA/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshchauhan1812/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/harshchauhan1812/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshchauhan1812/DSA/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshchauhan1812/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -337,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/harshchauhan1812/DSA/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshchauhan1812/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
